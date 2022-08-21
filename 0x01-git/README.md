@@ -1,1 +1,1 @@
-This is my first directory
+Git commands i have used
